@@ -38,7 +38,7 @@ const pricingPlans = [
 
 const Pricing = () => {
   return (
-    <section className="py-16" data-aos="fade-up">
+    <section className="py-16 px-4" data-aos="fade-up">
       <div className="container mx-auto px-4">
         <h2 className="text-3xl font-bold text-center mb-12">Choose Your Plan</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">

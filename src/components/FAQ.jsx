@@ -32,7 +32,7 @@ const FAQ = () => {
   };
 
   return (
-    <section className="py-16" data-aos="fade-up">
+    <section className="py-16 px-4" data-aos="fade-up">
       <div className="container mx-auto px-4">
         <h2 className="text-3xl font-bold text-center mb-12">Frequently Asked Questions</h2>
         <div className="max-w-3xl mx-auto">

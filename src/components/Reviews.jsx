@@ -5,7 +5,7 @@ const reviewsData = [
     id: 1,
     name: "John Doe",
     handle: "@johndoe",
-    avatar: "/api/placeholder/50/50",
+    avatar: "https://randomuser.me/api/portraits/men/30.jpg",
     review:
       "GymLabs AI has transformed my fitness journey. The personalized workouts are amazing!",
     stars: 5,
@@ -14,16 +14,16 @@ const reviewsData = [
     id: 2,
     name: "Jane Smith",
     handle: "@janesmith",
-    avatar: "/api/placeholder/50/50",
+    avatar: "https://randomuser.me/api/portraits/men/44.jpg",
     review:
       "I love how the meal plans are tailored to my preferences. It's made eating healthy so much easier.",
-    stars: 4,
+    stars: 5,
   },
   {
     id: 3,
     name: "Mike Johnson",
     handle: "@mikejohnson",
-    avatar: "/api/placeholder/50/50",
+    avatar: "https://randomuser.me/api/portraits/men/47.jpg",
     review:
       "The sleep guidance has really improved my recovery. I feel more energized than ever!",
     stars: 5,
