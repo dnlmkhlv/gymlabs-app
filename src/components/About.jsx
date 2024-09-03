@@ -1,6 +1,6 @@
 function About() {
     return (
-        <section id="about" className="py-10 mt-[-50px]">
+        <section id="about" className="py-10 mt-[-50px]" data-aos="fade-up">
             <div className="container mx-auto text-center px-5">
                 <h2 className="text-3xl font-bold">Your success in the gym depends on <span className="underline decoration-wavy decoration-red-400">3 factors</span></h2>
                 <p className="mt-4">Only a few people have their exercise, nutrition, and sleep perfectly aligned...</p>
